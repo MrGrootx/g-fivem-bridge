@@ -1,6 +1,7 @@
+
 Config = {}
 
 Config.settings = {
 	Language = "en",
-	Debug = true,
+	Debug = false,
 }
